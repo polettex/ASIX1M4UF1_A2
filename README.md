@@ -2,19 +2,19 @@
 
 1. ¿Qué es una página web?
 
-Respuesta.
+Una página web es un documento digital accesible a través de internet que contiene información, imágenes, enlaces y otros elementos multimedia.
 
 2. ¿Qué es un sitio web?
 
-Respuesta.
+Un sitio web es un conjunto de páginas web relacionadas que se encuentran bajo un mismo dominio.
 
 3. ¿Qué es una aplicación web?
 
-Respuesta.
+Una aplicación web es un software que se ejecuta en un navegador web y proporciona funcionalidades específicas a través de internet, sin necesidad de instalar nada en el dispositivo del usuario.
 
 4. ¿Qué es una herramienta ofimática?
 
-Respuesta.
+Una herramienta ofimática es un software diseñado para realizar tareas relacionadas con la gestión y creación de documentos.
 
 5. Herramientas de Google:
 
@@ -28,7 +28,7 @@ Respuesta.
 
 6. ¿Qué es HTML ?
 
-Respuesta.
+HTML es el lenguaje de marcado utilizado para crear y diseñar páginas web.
 
 ```
 <!DOCTYPE html>
@@ -47,8 +47,8 @@ Respuesta.
 
 7. ¿Qué es CSS?
 
-Respuesta.
+CSS es un lenguaje utilizado para definir el diseño y la apariencia visual de una página web.
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
-![Esto es una imagen](https://raw.githubusercontent.com/polettex/ASIX1M4UF1-A3Apuntes/aa7c1c85a0b76f082bbb92d680a2d3d35fd5964d/planeta.jpg "Enlace de la imagen")
+![Esto es una imagen](https://raw.githubusercontent.com/polettex/ASIX1M4UF1_A2/main/imagen.png "Enlace de la imagen")
