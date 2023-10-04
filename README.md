@@ -16,7 +16,7 @@ Una aplicación web es un software que se ejecuta en un navegador web y proporci
 
 Una herramienta ofimática es un software diseñado para realizar tareas relacionadas con la gestión y creación de documentos.
 
-5. [Enlace](https://www.google.com/intl/es-419/chrome/browser-tools/ "Herramientas de Google:")
+5. [Herramientas de Google:](https://www.google.com/intl/es-419/chrome/browser-tools/ "Herramientas de Google:")
 
 |:**Aplicaciones**:|:**Visto**:|
 |---------|------|
@@ -52,4 +52,4 @@ CSS es un lenguaje utilizado para definir el diseño y la apariencia visual de u
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
-![Esto es una imagen](https://raw.githubusercontent.com/polettex/ASIX1M4UF1_A2/main/imagen.png "Enlace de la imagen")
+![Imagen](https://raw.githubusercontent.com/polettex/ASIX1M4UF1_A2/main/imagen.png "Imagen")
